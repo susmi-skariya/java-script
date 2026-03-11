@@ -36,9 +36,9 @@ let s2="Lantana camara is a species of flowering plant \
 
 
 // CONCATINATION
-// let fname=`susmi`
+// let fname="susmi"
 // let mname="k"
-// let lname=`skariya`
+// let lname="skariya"
 // fullname=fname+mname+lname
 // console.log(fullname);
 
